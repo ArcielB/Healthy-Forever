@@ -1,0 +1,1 @@
+ /home/arciel/Flutter/flutter_application_1/.dart_tool/flutter_build/83b395acd90d3767cc9bc306998a70b0/native_assets.yaml: 
